@@ -116,7 +116,7 @@ Making visibleWord a list will have made this much easier!
 
 <details>
 <summary>Possible Answer</summary>
-
+```python
   guess = input("Enter a letter: ")
 
   for i in range(0, len(selectedWord)):
@@ -126,6 +126,7 @@ Making visibleWord a list will have made this much easier!
 
   if guess not in selectedWord:
     numOfGuesses -= 1
+```
 </details>
 
 ### Wrapping up
