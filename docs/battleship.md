@@ -1,6 +1,8 @@
 ## Battleships
 We are going to build a very simple version of the game battleship. It will be single player against preplaced ships (for simplicity!)
 
+
+[You can play it here](https://cardgames.io/seabattle/) <br/>
 #### Create the grid
 First things first we need a grid to play the game on!<br/>
 You can start by defining a variable for the grid's size (I called mine 'gridSize'), as well as a variable for the number of enemy ships (ie enemyCount).<br/>
